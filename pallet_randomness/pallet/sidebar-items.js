@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["PALLET_ID"],"enum":["Call","Error","Event"],"struct":["Pallet"],"trait":["Config"],"type":["BalanceOf","LocalVrfOutput","Module","NotFirstBlock","PreviousLocalVrfOutput","RandomnessResults","RequestCount","RequestId","Requests"]};

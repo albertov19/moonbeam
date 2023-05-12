@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Call","Error","Event"],"fn":["keys_size","keys_wrapper"],"struct":["GenesisConfig","Pallet","RegistrationInfo"],"trait":["Config"],"type":["BalanceOf","MappingWithDeposit","Module","NimbusLookup"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["Deserialize","Serialize"],"struct":["AccountId20","EthereumSignature","EthereumSigner"],"trait":["Deserialize","DeserializeOwned","Serialize"]};

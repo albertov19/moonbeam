@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["derive_bip44_pairs_from_mnemonic","generate_accounts","get_account_id_from_pair","get_from_seed"],"mod":["fake_spec","moonbase","moonbeam","moonriver","test_spec"],"struct":["Extensions","ExtensionsFork"],"type":["AccountId","RawChainSpec"]};

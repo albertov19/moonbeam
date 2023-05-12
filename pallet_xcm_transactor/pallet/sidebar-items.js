@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Call","Currency","Error","Event","HrmpOperation"],"struct":["CurrencyPayment","HrmpInitParams","Pallet","RemoteTransactInfoWithMaxWeight","TransactWeights"],"trait":["Config"],"type":["DestinationAssetFeePerSecond","IndexToAccount","Module","TransactInfoWithWeightLimit"]};

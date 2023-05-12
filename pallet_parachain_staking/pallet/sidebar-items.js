@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["COLLATOR_LOCK_ID","DELEGATOR_LOCK_ID"],"enum":["Call","Error","Event"],"struct":["GenesisConfig","Pallet"],"trait":["Config"],"type":["AtStake","AwardedPts","BalanceOf","DelayedPayouts","InflationConfig","Module","Points","RoundIndex","Staked"]};

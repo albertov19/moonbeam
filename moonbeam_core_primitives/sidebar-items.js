@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["OpaqueExtrinsic"],"type":["AccountId","AccountIndex","Address","AssetId","Balance","Block","BlockNumber","DigestItem","Hash","Header","Index","Signature"]};
